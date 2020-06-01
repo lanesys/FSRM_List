@@ -1,2 +1,4 @@
 *.excludetest
 *.backup
+*.101
+*.490
